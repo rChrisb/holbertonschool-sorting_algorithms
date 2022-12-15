@@ -300,9 +300,11 @@ alex@/tmp/sort$ ./select
 alex@/tmp/sort$
 ````
 ## **3. Quick sort**
+
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ywWBy6J5gz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
 Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
 
 - Prototype: `void quick_sort(int *array, size_t size);`
