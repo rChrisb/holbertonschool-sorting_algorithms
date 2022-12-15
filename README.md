@@ -14,7 +14,7 @@ This project is meant to be done by groups of two students. Each group of two sh
 
 * For this project you are given the following  ` print_array ` , and  ` print_list `  functions:
 
-```
+```bash
 #include <stdlib.h>
 #include <stdio.h>
 /**
@@ -80,7 +80,7 @@ typedef struct listint_s
 ```
 ## Tasks
 ## **0. Bubble sort**
-<p-align="center">
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lyZQPjUT5B4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
@@ -146,7 +146,7 @@ alex@/tmp/sort$
 ````
 
 ## **1. Insertion sort**
-<p-align="center">
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ROalU379l3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
@@ -247,7 +247,7 @@ alex@/tmp/sort$ ./insertion
 alex@/tmp/sort$
 ````
 ## **2. Selection sort**
-<p-align="center">
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ns4TPTC8whw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 Write a function that sorts an array of integers in ascending order using the Selection sort algorithm
@@ -298,7 +298,7 @@ alex@/tmp/sort$ ./select
 alex@/tmp/sort$
 ````
 ## **3. Quick sort**
-<p-align="center">
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ywWBy6J5gz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
