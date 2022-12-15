@@ -146,9 +146,11 @@ alex@/tmp/sort$
 ````
 
 ## **1. Insertion sort**
+
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ROalU379l3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
 Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
 
 + Prototype: `void insertion_sort_list(listint_t **list)`;
