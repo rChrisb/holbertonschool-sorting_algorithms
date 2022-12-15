@@ -1,4 +1,6 @@
 # C - Sorting algorithms & Big O
+![image](https://user-images.githubusercontent.com/113839670/207900245-bf3c727c-50ad-4f80-aae3-7773c7508040.png)
+
 ## Background Context
 This project is meant to be done by groups of two students. Each group of two should [pair program](https://en.wikipedia.org/wiki/Pair_programming) for at least the mandatory part.
 
