@@ -80,9 +80,8 @@ typedef struct listint_s
 ```
 ## Tasks
 ## **0. Bubble sort**
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lyZQPjUT5B4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[![Bubble-sort with Hungarian ("Csángó") folk dance](https://img.youtube.com/vi/ywWBy6J5gz8)](https://www.youtube.com/watch?v=ywWBy6J5gz8)
+
 Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
 
 + Prototype: `void bubble_sort(int *array, size_t size)`;
@@ -147,14 +146,13 @@ alex@/tmp/sort$
 
 ## **1. Insertion sort**
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ROalU379l3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[![Insert-sort with Romanian folk dance](https://img.youtube.com/vi/ROalU379l3U)](https://www.youtube.com/watch?v=ROalU379l3U)
+
 
 Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
 
 + Prototype: `void insertion_sort_list(listint_t **list)`;
-+ You are not allowed to modify the integer `n` of a node. You have to swap the nodes themselves.
++ You are not allowed to modify the integer `n` Insert-sort with Romanian folk danceof a node. You have to swap the nodes themselves.
 - You’re expected to print the `list` after each time you swap two elements (See example below)
 Write in the file `1-O`, the big O notations of the time complexity of the Insertion sort algorithm, with 1 notation per line:
 
@@ -249,10 +247,8 @@ alex@/tmp/sort$ ./insertion
 alex@/tmp/sort$
 ````
 ## **2. Selection sort**
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ns4TPTC8whw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-Write a function that sorts an array of integers in ascending order using the Selection sort algorithm
+[![Select-sort with Gypsy folk dance](https://img.youtube.com/vi/Ns4TPTC8whw)](https://www.youtube.com/watch?v=Ns4TPTC8whw)
+
 
 - Prototype: `void selection_sort(int *array, size_t size);`
 + You’re expected to print the `array` after each time you swap two elements (See example below)
